@@ -1,0 +1,66 @@
+#requirements.txt
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# YOLO and Object Detection
+ultralytics>=8.0.0
+
+# Computer Vision
+opencv-python>=4.8.0
+Pillow>=9.5.0
+
+# Scientific Computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Data Manipulation and Analysis
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Image Processing and Data Augmentation
+albumentations>=1.3.0
+
+# Progress Bars and Utilities
+tqdm>=4.65.0
+
+# Configuration and File Handling
+pyyaml>=6.0
+h5py>=3.8.0
+
+# DSS SDK Dependencies
+nats-py>=2.3.0
+protobuf>=4.23.0
+grpcio>=1.54.0
+asyncio-mqtt>=0.13.0
+
+# Version Control
+GitPython>=3.1.0
+
+# Development and Testing
+jupyter>=1.0.0
+ipykernel>=6.22.0
+notebook>=6.5.0
+
+# Additional useful packages for AI/ML projects
+tensorboard>=2.13.0
+wandb>=0.15.0
+
+# For joystick/gamepad input handling (cross-platform)
+pygame>=2.5.0        
+# Optional: For enhanced performance (uncomment if needed)
+# numba>=0.57.0
+# cupy-cuda11x>=12.0.0  # For CUDA 11.x
+# cupy-cuda12x>=12.0.0  # For CUDA 12.x
+
+# Optional: For deployment (uncomment if needed)
+# onnx>=1.14.0
+# onnxruntime>=1.15.0
+# flask>=2.3.0
+# fastapi>=0.100.0
+

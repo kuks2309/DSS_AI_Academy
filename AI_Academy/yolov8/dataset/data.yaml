@@ -1,0 +1,12 @@
+names:
+- lane
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: dss_ai
+  url: https://universe.roboflow.com/abcda-ycdj2/dss_ai/dataset/1
+  version: 1
+  workspace: abcda-ycdj2
+test: C:\Project\DSS\AI_Academy\yolov8\dataset\test\images
+train: C:\Project\DSS\AI_Academy\yolov8\dataset\train\images
+val: C:\Project\DSS\AI_Academy\yolov8\dataset\valid\images
