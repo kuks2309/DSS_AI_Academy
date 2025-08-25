@@ -1,0 +1,41 @@
+# Python 가상환경
+venv/
+ENV/
+.env/
+*.env
+
+# 데이터셋 및 대용량 파일
+data/
+dataset/
+*.csv
+*.tsv
+*.xlsx
+*.h5
+*.npz
+
+# 캐시 및 임시 파일
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# IDE 및 OS 파일
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 모델 및 체크포인트
+*.pt
+*.pth
+*.ckpt
+
+# 기존 데이터셋 경로
+PilotNet/DSS_pilotnet_dataset/
+PilotNet/driving_data
+AI_Academy/image
+AI_Academy/image1
+
+# zip 파일
+*.zip
