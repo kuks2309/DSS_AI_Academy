@@ -1,0 +1,13 @@
+{
+  "anchor_lines": [
+    160,
+    180,
+    200,
+    220,
+    240
+  ],
+  "show_anchor_lines": true,
+  "image_height": 480,
+  "format": "pixels_from_top",
+  "model_type": "pytorch"
+}
